@@ -1,0 +1,109 @@
+{
+  "categories": [
+    {
+      "name": "Signature Cocktails",
+      "description": "Our bartenders' expertly crafted signature drinks",
+      "items": [
+        {
+          "name": "Amaretto Sour",
+          "description": "A perfectly balanced sweet and sour classic with amaretto, fresh lemon, and egg white foam",
+          "price": "",
+          "popular": true
+        },
+        {
+          "name": "Espresso Martini",
+          "description": "Rich espresso, vodka, and coffee liqueur - the perfect pick-me-up cocktail",
+          "price": "",
+          "popular": true
+        },
+        {
+          "name": "Seasonal Specials",
+          "description": "Ask our bartenders about today's seasonal creations",
+          "price": "",
+          "seasonal": true
+        }
+      ]
+    },
+    {
+      "name": "Classic Cocktails",
+      "description": "Timeless favorites made with premium spirits",
+      "items": [
+        {
+          "name": "Old Fashioned",
+          "description": "Whiskey, bitters, sugar, orange twist",
+          "price": ""
+        },
+        {
+          "name": "Negroni",
+          "description": "Gin, Campari, sweet vermouth",
+          "price": ""
+        },
+        {
+          "name": "Mojito",
+          "description": "White rum, fresh mint, lime, soda",
+          "price": ""
+        },
+        {
+          "name": "Moscow Mule",
+          "description": "Vodka, ginger beer, lime, served in copper mug",
+          "price": ""
+        }
+      ]
+    },
+    {
+      "name": "Craft Beer",
+      "description": "Carefully selected local and international brews",
+      "items": [
+        {
+          "name": "Rotating Draft Selection",
+          "description": "Ask about our current draft beers",
+          "price": ""
+        },
+        {
+          "name": "Bottled Craft Beers",
+          "description": "Various local Berlin breweries",
+          "price": ""
+        }
+      ]
+    },
+    {
+      "name": "Seasonal & Special",
+      "description": "Limited time offerings",
+      "items": [
+        {
+          "name": "Glühwein",
+          "description": "Traditional German mulled wine (Winter seasonal)",
+          "price": "",
+          "seasonal": true
+        },
+        {
+          "name": "Bartender's Choice",
+          "description": "Tell us your preferences and let our experts create something special",
+          "price": ""
+        }
+      ]
+    },
+    {
+      "name": "Non-Alcoholic",
+      "description": "Delicious alcohol-free options",
+      "items": [
+        {
+          "name": "Virgin Mojito",
+          "description": "Fresh mint, lime, soda, sugar",
+          "price": ""
+        },
+        {
+          "name": "Craft Sodas",
+          "description": "Premium soft drinks and mixers",
+          "price": ""
+        },
+        {
+          "name": "Fresh Juices",
+          "description": "Freshly squeezed seasonal juices",
+          "price": ""
+        }
+      ]
+    }
+  ],
+  "note": "Prices available at the bar. We're happy to accommodate special requests and dietary preferences. Just ask our friendly bartenders!"
+}

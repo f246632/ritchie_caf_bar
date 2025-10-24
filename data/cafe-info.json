@@ -1,0 +1,62 @@
+{
+  "name": "Ritchie Café & Bar",
+  "category": "Cocktailbar",
+  "tagline": "Where Berlin Spirit Meets Exceptional Cocktails",
+  "description": "A cozy cocktail bar in the heart of Kreuzberg, capturing the authentic old Berlin spirit. Known for exceptional craft cocktails, friendly bartenders, and a welcoming atmosphere with gender-inclusive facilities.",
+  "address": {
+    "street": "Oranienstraße 174",
+    "city": "Berlin",
+    "postalCode": "10999",
+    "country": "Deutschland",
+    "neighborhood": "Kreuzberg"
+  },
+  "contact": {
+    "phone": "+49 178 9793860",
+    "phoneFormatted": "+49 178 9793860",
+    "email": "",
+    "website": ""
+  },
+  "hours": {
+    "monday": "18:00 - 02:00",
+    "tuesday": "18:00 - 02:00",
+    "wednesday": "18:00 - 02:00",
+    "thursday": "18:00 - 02:00",
+    "friday": "17:00 - 04:00",
+    "saturday": "17:00 - 04:00",
+    "sunday": "17:00 - 02:00"
+  },
+  "social": {
+    "instagram": "https://www.instagram.com/ritchie_bar/",
+    "instagramHandle": "@ritchie_bar",
+    "facebook": "https://www.facebook.com/p/Ritchie-cafe-bar-100094546338700/",
+    "tripadvisor": "https://www.tripadvisor.com/Restaurant_Review-g187323-d27825202-Reviews-Ritchie_Cafe_Bar-Berlin.html"
+  },
+  "ratings": {
+    "restaurantGuru": {
+      "rating": 4.8,
+      "reviews": 1006
+    }
+  },
+  "features": [
+    "Exceptional Craft Cocktails",
+    "Cozy Berlin Atmosphere",
+    "Friendly Expert Bartenders",
+    "Gender-Inclusive Restrooms",
+    "Old Berlin Spirit",
+    "Seasonal Drinks Menu",
+    "Late Night Service",
+    "LGBTQ+ Friendly"
+  ],
+  "specialties": [
+    "Amaretto Sour",
+    "Espresso Martini",
+    "Seasonal Glühwein",
+    "Craft Beer Selection",
+    "Custom Cocktail Recommendations"
+  ],
+  "googleMaps": {
+    "url": "https://www.google.com/maps/search/?api=1&query=Ritchie%20Caf%C3%A9%20%26%20Bar&query_place_id=ChIJ99HXXctPqEcR9us0USQXozc",
+    "placeId": "ChIJ99HXXctPqEcR9us0USQXozc",
+    "embedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2428.345!2d13.4197!3d52.5009!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a84f4e5cd7d1f7%3A0x37a317242450ebf6!2sRitchie%20Caf%C3%A9%20%26%20Bar!5e0!3m2!1sen!2sde!4v1234567890"
+  }
+}

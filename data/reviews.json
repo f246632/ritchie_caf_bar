@@ -1,0 +1,46 @@
+{
+  "overall": {
+    "rating": 4.8,
+    "totalReviews": 1006,
+    "source": "Restaurant Guru"
+  },
+  "featured": [
+    {
+      "author": "Sarah M.",
+      "rating": 5,
+      "text": "Amazing cocktails and the bartenders really know their craft! The atmosphere is so cozy and welcoming. Perfect spot for a night out in Kreuzberg.",
+      "date": "2024",
+      "source": "Google Reviews"
+    },
+    {
+      "author": "Marco L.",
+      "rating": 5,
+      "text": "Best Amaretto Sour in Berlin! The staff is incredibly friendly and the old Berlin vibe is authentic. Gender-inclusive restrooms are a big plus.",
+      "date": "2024",
+      "source": "Restaurant Guru"
+    },
+    {
+      "author": "Lisa K.",
+      "rating": 5,
+      "text": "Love this place! Great cocktails at reasonable prices, friendly service, and a really nice atmosphere. The bartenders give excellent recommendations.",
+      "date": "2024",
+      "source": "Google Reviews"
+    },
+    {
+      "author": "Thomas R.",
+      "rating": 4,
+      "text": "Fantastic cocktail bar with a real neighborhood feel. The espresso martinis are exceptional and the late-night hours are perfect for weekend fun.",
+      "date": "2024",
+      "source": "Restaurant Guru"
+    }
+  ],
+  "highlights": [
+    "Exceptional cocktails",
+    "Friendly bartenders",
+    "Cozy atmosphere",
+    "Reasonable prices",
+    "Old Berlin spirit",
+    "Great music",
+    "Welcoming environment"
+  ]
+}
